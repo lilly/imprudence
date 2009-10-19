@@ -1,0 +1,21 @@
+2009-10-19  Lilly Zenovka <pixelgirls@gmail.com>
+	* Imported Meerkat's object backup feature.
+		modified:   linden/indra/newview/CMakeLists.txt
+		modified:   linden/indra/newview/app_settings/settings.xml
+		modified:   linden/indra/newview/llviewermenu.cpp
+		modified:   linden/indra/newview/llviewerobjectlist.cpp
+		new file:   linden/indra/newview/primbackup.cpp
+		new file:   linden/indra/newview/primbackup.h
+		modified:   linden/indra/newview/skins/default/xui/en-us/menu_pie_object.xml
+		modified:   linden/indra/newview/skins/default/xui/en-us/menu_viewer.xml
+		new file:   linden/indra/newview/skins/default/xui/en-us/floater_prim_import.xml
+
+	* Fix for VWR-12161
+	        modified:   linden/indra/llmedia/llmediaimplllmozlib.cpp
+
+	* Ported Appearance import/export from Meerkat Viewer
+	  	modified:   linden/indra/newview/llfloatercustomize.cpp
+		modified:   linden/indra/newview/llfloatercustomize.h
+		modified:   linden/indra/newview/llwearable.cpp
+		modified:   linden/indra/newview/llwearable.h
+		modified:   linden/indra/newview/skins/default/xui/en-us/floater_customize.xml
