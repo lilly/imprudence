@@ -1,0 +1,10 @@
+2009-10-19  Lilly Zenovka <pixelgirls@gmail.com>
+	* linden/indra/llmedia/llmediaimplllmozlib.cpp:
+	Fix for VWR-12161
+
+	* linden/indra/newview/llfloatercustomize.cpp
+	* linden/indra/newview/llfloatercustomize.h
+	* linden/indra/newview/llwearable.cpp
+	* linden/indra/newview/llwearable.h
+	* linden/indra/newview/skins/default/xui/en-us/floater_customize.xml:
+	Ported Appearance import/export from Meerkat Viewer
