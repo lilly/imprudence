@@ -1,4 +1,9 @@
 2009-10-19  Lilly Zenovka <pixelgirls@gmail.com>
+       * Ported notecard security fix from LL's 1.23.5 viewer.
+       	 	modified:   linden/indra/newview/llassetuploadresponders.cpp
+		modified:   linden/indra/newview/llpreview.cpp
+		modified:   linden/indra/newview/llpreview.h
+
 	* Imported Meerkat's object backup feature.
 		modified:   linden/indra/newview/CMakeLists.txt
 		modified:   linden/indra/newview/app_settings/settings.xml
